@@ -4,17 +4,17 @@
 # several tasks to extract insights and analyze patterns in the
 # claims data.
 # {
-#  "patients": [
-#  {
-#  "id": "P001",
-#  "claims": [
-#  {"id": "C001", "amount": 100, "billingCode": "B001", "date": "2024-01-01"},
-#  {"id": "C002", "amount": 200, "billingCode": "B001", "date": "2024-01-05"},
-#  {"id": "C003", "amount": 150, "billingCode": "B002", "date": "2024-01-10"}
-#  ]
-#  }
-#  ]
-# }
+#        "patients": [
+#            {
+#                "id": "P001",
+#                "claims": [
+#                    {"id": "C001", "amount": 100, "billingCode": "B001", "date": "2024-01-01"},
+#                    {"id": "C002", "amount": 200, "billingCode": "B001", "date": "2024-01-05"},
+#                    {"id": "C003", "amount": 150, "billingCode": "B002", "date": "2024-01-10"}
+#                ]
+#            }
+#        ]
+#    }
 
 # Task 1: Extract Related Claims
 # Part A:
